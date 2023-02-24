@@ -1,5 +1,5 @@
 {
-  "name": "develop-utilitis",
+  "name": "@dev/utility",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,5 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "marcos",
-  "license": "ISC"
+  "license": "ISC",
+  "publishConfig": {
+    "@marcoslebron:registry": "https://npm.pkg.github.com"
+  }
 }
