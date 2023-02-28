@@ -420,12 +420,14 @@
       "packageName": "@dev/utility",
       "projectFolder": "libraries/develop-utility",
       "reviewCategory": "production",
+      "shouldPublish": true,
       "tags": [ "frontend-team" ]
     },
     {
       "packageName": "@dev/ui",
       "projectFolder": "libraries/develop-ui",
       "reviewCategory": "tools",
+      "shouldPublish": true,
       "tags": [ "tools" ]
     }
   ]
