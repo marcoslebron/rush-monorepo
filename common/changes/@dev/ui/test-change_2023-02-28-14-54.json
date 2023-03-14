@@ -1,0 +1,10 @@
+{
+  "changes": [
+    {
+      "packageName": "@dev/ui",
+      "comment": "new function",
+      "type": "patch"
+    }
+  ],
+  "packageName": "@dev/ui"
+}

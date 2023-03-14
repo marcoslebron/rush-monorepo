@@ -1,0 +1,10 @@
+{
+  "changes": [
+    {
+      "packageName": "@dev/ui",
+      "comment": "modified rush config",
+      "type": "patch"
+    }
+  ],
+  "packageName": "@dev/ui"
+}
